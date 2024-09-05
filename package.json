@@ -1,0 +1,16 @@
+{
+  "name": "ip-network-calculator",
+  "version": "1.0.0",
+  "description": "🌐 Creating code to calculate network IP for the Cloud Distributed Systems course at @Bandtec",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
